@@ -1,0 +1,13 @@
+C:\Users\LEON\proyectoNet\coreEscuela\bin\Debug\netcoreapp3.1\coreEscuela.exe
+C:\Users\LEON\proyectoNet\coreEscuela\bin\Debug\netcoreapp3.1\coreEscuela.deps.json
+C:\Users\LEON\proyectoNet\coreEscuela\bin\Debug\netcoreapp3.1\coreEscuela.runtimeconfig.json
+C:\Users\LEON\proyectoNet\coreEscuela\bin\Debug\netcoreapp3.1\coreEscuela.runtimeconfig.dev.json
+C:\Users\LEON\proyectoNet\coreEscuela\bin\Debug\netcoreapp3.1\coreEscuela.dll
+C:\Users\LEON\proyectoNet\coreEscuela\bin\Debug\netcoreapp3.1\coreEscuela.pdb
+C:\Users\LEON\proyectoNet\coreEscuela\obj\Debug\netcoreapp3.1\coreEscuela.csprojAssemblyReference.cache
+C:\Users\LEON\proyectoNet\coreEscuela\obj\Debug\netcoreapp3.1\coreEscuela.AssemblyInfoInputs.cache
+C:\Users\LEON\proyectoNet\coreEscuela\obj\Debug\netcoreapp3.1\coreEscuela.AssemblyInfo.cs
+C:\Users\LEON\proyectoNet\coreEscuela\obj\Debug\netcoreapp3.1\coreEscuela.csproj.CoreCompileInputs.cache
+C:\Users\LEON\proyectoNet\coreEscuela\obj\Debug\netcoreapp3.1\coreEscuela.dll
+C:\Users\LEON\proyectoNet\coreEscuela\obj\Debug\netcoreapp3.1\coreEscuela.pdb
+C:\Users\LEON\proyectoNet\coreEscuela\obj\Debug\netcoreapp3.1\coreEscuela.genruntimeconfig.cache
